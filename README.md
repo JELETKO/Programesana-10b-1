@@ -1,3 +1,3 @@
 # Programesana-10b-1
-Vai man javeido jaunu repozitoriju?
+Mācos stradāt GitHub un Github Desktop
 Es esmu labs programmetajs 
