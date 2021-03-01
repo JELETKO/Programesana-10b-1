@@ -1,3 +1,3 @@
 # Programesana-10b-1
-Mācos stradāt GitHub un Github Desktop
+Mācos stradāt ar GitHub un Github Desktop
 Es esmu labs programmetajs 
